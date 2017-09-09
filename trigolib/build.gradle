@@ -1,20 +1,20 @@
 apply plugin: 'com.android.library'
-apply plugin: 'com.github.dcendents.android-maven'
+//apply plugin: 'com.github.dcendents.android-maven'
 
 ext {
     bintrayRepo = 'maven'
     bintrayName = 'TrigoComputation'
 
-    publishedGroupId = 'com.user.derekpoon.trigolibrary'
+    publishedGroupId = 'com.user.derekpoon'
     libraryName = 'TrigoComputation'
-    artifact = 'Compute'
+    artifact = 'trigolib'  // has to be same as module name
 
     libraryDescription = 'A trigo library demo'
 
     siteUrl = 'https://github.com/drkpoon/MyLib'
     gitUrl = 'https://github.com/drkpoon/MyLib.git'
 
-    libraryVersion = '1.0.2'
+    libraryVersion = '1.0.3'
 
     developerId = 'drkpoon'
     developerName = 'Derek Poon'

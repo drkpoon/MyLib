@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MyLib.iml" filepath="$PROJECT_DIR$/MyLib.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/trigolibrary/trigolibrary.iml" filepath="$PROJECT_DIR$/trigolibrary/trigolibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trigolib/trigolib.iml" filepath="$PROJECT_DIR$/trigolib/trigolib.iml" />
     </modules>
   </component>
 </project>
