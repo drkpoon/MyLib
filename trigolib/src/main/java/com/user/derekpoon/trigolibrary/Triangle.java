@@ -15,7 +15,7 @@ public class Triangle {
 
     /**
      *
-     * <img src = "{@docRoot}/triangle.png">
+     * <img src = "{@docRoot}/triangle.png" alt = "triangle">
      *
      * @param x    depends on construction type.
      * @param y    depends on construction type.
