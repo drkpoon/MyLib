@@ -10,6 +10,14 @@ public class Compute {
         return width * height;
     }
 
+    /**
+     *
+     * @param a side A
+     * @param b side B
+     * @param c side C
+     * @return area of triangle
+     * @deprecated  use Triangle class.
+     */
     public static double triangleArea(double a, double b, double c) {
         // Heron's formula
         double s = 0.5f * (a + b + c);

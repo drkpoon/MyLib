@@ -6,7 +6,7 @@ ext {
     bintrayName = 'TrigoComputation'
 
     publishedGroupId = 'com.user.derekpoon'
-    libraryName = 'TrigoComputation'
+    libraryName = 'Trigo Computation'
     artifact = 'trigolib'  // has to be same as module name
 
     libraryDescription = 'A trigo library demo'
@@ -14,7 +14,7 @@ ext {
     siteUrl = 'https://github.com/drkpoon/MyLib'
     gitUrl = 'https://github.com/drkpoon/MyLib.git'
 
-    libraryVersion = '1.0.3'
+    libraryVersion = '1.0.5'
 
     developerId = 'drkpoon'
     developerName = 'Derek Poon'
